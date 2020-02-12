@@ -19,7 +19,7 @@ We have prepared some simple problems for you to solve. If you struggle you can 
 
 [/slide]
 
-[slide]
+[slide hideTitle]
 # Problem: Print "Hello Java"
 [code-task title="Print Hello Java" taskId="ITP-p-01" executionStrategy="java-code"]
 [code-editor language=java]
