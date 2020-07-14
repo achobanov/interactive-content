@@ -27,5 +27,10 @@ Hello SoftUni
 [/output]
 [/test]
 [/tests]
+[hints-list]
+  [hint]
+    Kurec
+  [/hint]
+[/hints-list]
 [/code-task]
 [/slide]
