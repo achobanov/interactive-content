@@ -29,7 +29,13 @@ Hello SoftUni
 [/tests]
 [hints-list]
   [hint]
-    Kurec
+    [task-description]
+      # Description
+
+      Write a program, which:
+
+      Prints "Hello SoftUni" on the console
+    [/task-description]
   [/hint]
 [/hints-list]
 [/code-task]
