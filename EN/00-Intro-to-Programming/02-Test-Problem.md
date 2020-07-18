@@ -30,11 +30,11 @@ Hello SoftUni
 [hints-list]
   [hint]
     [task-description]
-      # Description
+# Description
 
-      Write a program, which:
+Write a program, which:
 
-      Prints "Hello SoftUni" on the console
+Prints "Hello SoftUni" on the console
     [/task-description]
   [/hint]
 [/hints-list]
