@@ -70,27 +70,10 @@ x -> 3
 [/test]
 [test]
 [input]
-The waves were crashing on the shore; it was a lovely sight.
+Kur
 [/input]
 [output]
-T -> 1
-h -> 5
-e -> 7
-w -> 3
-a -> 4
-v -> 2
-s -> 5
-r -> 3
-c -> 1
-i -> 3
-n -> 2
-g -> 2
-o -> 3
-t -> 3
-; -> 1
-l -> 2
-y -> 1
-. -> 1
+Shit
 [/output]
 [/test]
 [test]
